@@ -1,2 +1,6 @@
+from selenium import webdriver
+
 def main():
-    print("Hello world")
+    driver = webdriver.Firefox()
+
+    driver.get("https://google.com")
