@@ -13,4 +13,4 @@ dynamic = ["version", "description"]
 Home = "https://github.com/otreblan/family-scraper"
 
 [project.scripts]
-family-scraper = "family_scraper:main"
+family-scraper = "family_scraper.main:main"
