@@ -10,7 +10,7 @@ url="https://github.com/otreblan/family-scraper"
 license=('GPL')
 depends=(
 	"bash-completion"
-	"python"
+	"python-selenium"
 )
 makedepends=(
 	"python-build"
